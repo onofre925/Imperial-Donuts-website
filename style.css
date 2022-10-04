@@ -30,3 +30,16 @@ nav ul li a {
 nav ul li a:hover{
     text-decoration: underline;
 }
+
+.strapline-container{
+    border:2px solid rgb(207, 19, 107);
+    width:90%;
+    height: 85%;
+    margin: auto auto;
+    text-align:center;
+    background-image: url(./images/rod-long-6SMF42-JTAc-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+
+
+}
