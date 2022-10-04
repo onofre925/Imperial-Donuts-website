@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    padding:0%;
+}
+
+header{
+    width:100vw;
+    height:100vh;
+
+}
+
+nav{
+    width: 90%;
+    margin:10px auto;
+    text-align: right;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(207, 19, 107);
+    font-size: 20px;
+    margin:0px 10px;
+    letter-spacing: 1px;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+}
