@@ -150,4 +150,15 @@ nav ul li a:hover{
     height:310px;
     display: inline-block;
     margin: 15px;
+    background-size: cover;
+    background-position: center;
+}
+#donut-one{
+    background-image: url(./images/donutsone.jpg);
+}
+#donut-two{
+    background-image: url(./images/donutstwo.jpeg);
+}
+#donut-three{
+    background-image: url(./images/kobby-mendez-q54Oxq44MZs-unsplash.jpg);
 }
