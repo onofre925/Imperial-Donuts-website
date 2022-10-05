@@ -153,6 +153,10 @@ nav ul li a:hover{
     background-size: cover;
     background-position: center;
 }
+
+.grid-item:hover{
+    opacity: 0.80;
+}
 #donut-one{
     background-image: url(./images/donutsone.jpg);
 }
