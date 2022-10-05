@@ -1,7 +1,13 @@
 *{
     margin:0px;
     padding:0%;
+    max-width: 100%;
+    overflow-x: hidden;
 }
+body{
+    font-family: 'Vesper Libre', serif;
+}
+
 
 header{
     width:100vw;
@@ -40,6 +46,17 @@ nav ul li a:hover{
     background-image: url(./images/rod-long-6SMF42-JTAc-unsplash.jpg);
     background-size: cover;
     background-position: center;
+}
 
-
+.main-strapline{
+    color:rgb(207, 19, 107);
+    font-size:110px;
+    text-transform: uppercase;
+    margin: 50px 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.second-strapline{
+    color:#FFFFDD;
+    font-size: 35px;
+    font-style: italic;
 }
