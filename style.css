@@ -129,3 +129,26 @@ nav ul li a:hover{
     background-size: cover;
     background-position: center;
 }
+
+.donuts-section{
+    width:100vw;
+}
+
+.image-container{
+    width:100%;
+}
+
+.row-one{
+    border:2px solid blue;
+    width: 90%;
+    margin:10px auto;
+    text-align: center;
+}
+
+.grid-item{
+    border: 2px solid purple;
+    width: 30%;
+    height:310px;
+    display: inline-block;
+    margin: 15px;
+}
