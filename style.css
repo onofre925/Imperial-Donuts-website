@@ -145,7 +145,6 @@ nav ul li a:hover{
 }
 
 .grid-item{
-    border: 2px solid purple;
     width: 30%;
     height:310px;
     display: inline-block;
@@ -161,4 +160,13 @@ nav ul li a:hover{
 }
 #donut-three{
     background-image: url(./images/kobby-mendez-q54Oxq44MZs-unsplash.jpg);
+}
+#donut-four{
+    background-image: url(./images/donutsfour.jpg);
+}
+#donut-five{
+    background-image: url(./images/donutsfive.jpg);
+}
+#donut-six{
+    background-image: url(./images/donutssix.jpg);
 }
