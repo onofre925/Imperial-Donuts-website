@@ -179,3 +179,22 @@ nav ul li a:hover{
 #donut-nine{
     background-image: url(./images/donutsnine.jpeg);
 }
+
+.stores-section{
+    width: 100vw;
+}
+
+.stores-container{
+    width:90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.store-div{
+    width: 30%;
+    height: 240px;
+    margin: 20px;
+    text-align: center;
+
+}
