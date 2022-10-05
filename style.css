@@ -101,9 +101,31 @@ nav ul li a:hover{
 }
 
 
-
 .grid-image-one{
     width: 50%;
-    height:240px;
-    border: 2px solid blue;
+    height:280px;
+    background-image: url(./images/pexels-craig-dennis-3701822.jpg);
+    background-size: cover;
+    background-image: center;
+}
+.grid-image-two{
+    width: 50%;
+    height:280px;
+    background-image: url(./images/pexels-chevanon-photography-302899.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.grid-image-three{
+    width: 50%;
+    height:280px;
+    background-image: url(./images/nathan-dumlao-Y3AqmbmtLQI-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.grid-image-four{
+    width: 50%;
+    height:280px;
+    background-image: url(./images/kobby-mendez-q54Oxq44MZs-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
 }
