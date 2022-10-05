@@ -138,8 +138,7 @@ nav ul li a:hover{
     width:100%;
 }
 
-.row-one{
-    border:2px solid blue;
+.row-one, .row-two,.row-three{
     width: 90%;
     margin:10px auto;
     text-align: center;
