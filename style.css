@@ -218,3 +218,15 @@ h4{
 .email{
     font-size: 130%;
 }
+
+.social-media-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 40vw;
+    margin: 0 auto;
+}
+
+.social-media-icon{
+    margin: 0px 7.5px;
+}
